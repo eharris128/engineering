@@ -21,5 +21,5 @@ using this Golang [`project layout`](https://bit.ly/3gPF9uK).
 * Kubernetes (some developer and ops experience)
 * Kubernetes internals/code
 * Hashicorp and/or other cloud infrastructure tools background
-* Previous experience building cloud infrastructure platforms or cloud infrastructure platform and cloud infrastructure management tools
+* Previous experience building cloud-based platforms, cloud infrastructure platforms or cloud infrastructure management tools
 
