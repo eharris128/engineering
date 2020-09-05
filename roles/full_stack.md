@@ -18,6 +18,7 @@ internals in Vue.js and Nuxt.js. It's great if you are already there with React.
 * Nuxt.js
 * Vue.js
 * Vuetify
+* D3.js and other data visualization tools
 * Serverless.js
 * Experience building software running on one of the major IaaS clouds (AWS, GCP, Azure; ideally AWS)
 * Serverless functions

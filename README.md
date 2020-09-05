@@ -26,7 +26,7 @@ The current product is focusing on containers and the friction around them in va
 #### Current Tech Stack Highlights
 
 * AWS (serverless, containers, EC2)
-* Vue.js/Nuxt.js-based frontend
+* Vue.js/Nuxt.js-based frontend (with D3-based visualizations)
 * Node.js-based BFF (Backend For Frontend)
 * Go-based platform backend.
 * Go-based core engine (containers and low level Linux system internals).
