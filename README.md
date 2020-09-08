@@ -50,4 +50,4 @@ We are looking for people who'll be excited to be a part of the engineering team
 * [`Backend Platform Engineer/Lead`](roles/backend.md)
 * [`Core Engine Engineer/Lead - Linux System Internals`](roles/core_engine.md)
 
-If you are interesting in one of these roles, don't send a resume. Write a short note instead... Share your thoughts about `cloud-native` and what it means to you in addition to the relevant information about you. You can email it to `join.engineering`.
+If you are interested in one of these roles, don't send a resume. Write a short note instead... Share your thoughts about `cloud-native` and what it means to you in addition to the relevant information about you. You can email it to `join.engineering`.
