@@ -16,6 +16,31 @@ We will treat you in a professional manner and we expect professional behavior f
 
 We are in the early stage of our journey, but we have enough money to get us through COVID and beyond.
 
+## Engineering Principles
+
+1. We share a common cloud-native mindset and a platform thinking DNA.
+
+2. We have a `written down` and transparent culture that enables our remote first asynchronous approach to engineering.
+
+3. We have a lightweight engineering process based on trust, self-alignment and visibility.
+
+4. We self-align optimizing for the needs of our organization first avoiding local optimization.
+
+5. We don’t design by committee.
+
+6. We create stage appropriate designs that can evolve and that can be thrown away when necessary.
+
+7. We optimize for evolvable architecture building an extensible and composable system with disposable components using an API first approach.
+
+8. We optimize our designs for people first and machines second.
+
+9. We use what we build.
+
+10. We learn fast, learn a lot and learn together.
+
+11. We share knowledge and give back to the tech community.
+
+See the [`Engineering Principles`](engineering_principles.md) page to learn more.
 
 ## What You’ll be Working With
 
@@ -36,12 +61,13 @@ The current product is focusing on containers and the friction around them in va
 
 We are looking for people who'll be excited to be a part of the engineering team in an early stage startup during its inception phase building modern cloud-native applications the right way.
 
+Alignment with our [`Engineering Principles`](engineering_principles.md) is important too.
+
 #### Key Qualities We Care About
 
 * **A cloud-native mindset and a platform thinking DNA**
 * Modern cloud-native application design patterns and tooling background
 * Ability and desire to learn a lot
-
 
 ## Open Engineering Roles
 
