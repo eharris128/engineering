@@ -77,3 +77,9 @@ Alignment with our [`Engineering Principles`](engineering_principles.md) is impo
 * [`Core Engine Engineer/Lead - Linux System Internals`](roles/core_engine.md)
 
 If you are interested in one of these roles, don't send a resume. Write a short note instead... Share your thoughts about `cloud-native` and what it means to you in addition to the relevant information about you. You can email it to `join.engineering`.
+
+## Laptop Options
+
+* Pixelbook Go (Linux*)
+* Dell XPS 13 - Developer Edition (Linux)
+* Dell Precision 5550 Mobile Workstation (Linux)
