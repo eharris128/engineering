@@ -1,4 +1,4 @@
-# Full Stack Engineer/Lead
+# Full Stack Developer/Lead
 
 We are looking for someone who's comfortable contributing 
 to the frontend and the backend components of 
