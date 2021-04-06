@@ -72,11 +72,11 @@ Alignment with our [`Engineering Principles`](engineering_principles.md) is impo
 ## Open Engineering Roles
 
 * [`Developer Experience Lead`](roles/developer_experience.md)
-* [`Full Stack Engineer/Lead - Vue.js/Nuxt.js/Node.js/Go`](roles/full_stack.md)
-* [`Backend Platform Engineer/Lead`](roles/backend.md)
-* [`Core Engine Engineer/Lead - Linux System Internals`](roles/core_engine.md)
+* [`Full Stack Developer/Lead - Vue.js/Nuxt.js/Node.js/Go`](roles/full_stack.md)
+* [`Backend Platform Developer/Lead`](roles/backend.md)
+* [`Core Engine Developer/Lead - Linux System Internals`](roles/core_engine.md)
 
-If you are interested in one of these roles, don't send a resume. Write a short note instead... Share your thoughts about `cloud-native` and what it means to you in addition to the relevant information about you. You can email it to `join.engineering`.
+If you are interested in one of these roles, don't send a resume. Write a short note instead... Share your thoughts about `cloud-native` and what it means to you in addition to the relevant information about you. Email it to `join.engineering`.
 
 ## Laptop Options
 
