@@ -76,7 +76,7 @@ Alignment with our [`Engineering Principles`](engineering_principles.md) is impo
 * [`Backend Platform Developer/Lead`](roles/backend.md)
 * [`Core Engine Developer/Lead - Linux System Internals`](roles/core_engine.md)
 
-If you are interested in one of these roles, don't send a resume. Write a short note instead... Share your thoughts about `cloud-native` and what it means to you in addition to the relevant information about you. Email it to `join.engineering`.
+If you are interested in one of these roles, don't send a resume. Write a short note instead... Share your thoughts about `cloud-native` and what it means to you in addition to the relevant information about you. Email it to `join.engineering@slim.ai`.
 
 ## Laptop Options
 
